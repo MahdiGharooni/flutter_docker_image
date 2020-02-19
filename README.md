@@ -1,5 +1,8 @@
 # Flutter Docker Image
 
+[dockerHub repository](https://hub.docker.com/repository/docker/mahdigharooni/flutter)
+[medium](https://medium.com/@mmahdi.gjafari69/setup-flutter-by-docker-without-using-ide-aed6c8b0db70)
+
 If you want to use Flutter commands in server side, because of some server limitations you can add Flutter by docker instead of adding it by downloading Flutter SDK and other dependencies. By running some commands you can use Flutter SDK, Dart SDK and every dependencies you need more comfortable and professional.
 
 Before this you should have basic information about [docker](https://docs.docker.com/) and download it. At least you should know about docker, dockerFile and docker-compose to understand easily.  
