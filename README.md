@@ -98,3 +98,4 @@ For having an update flutter SDK, you can use this command:
 ```
 flutter upgrade
 ```
+
